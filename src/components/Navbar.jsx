@@ -165,7 +165,7 @@ const Navbar = () => {
             <NavLink
               onClick={() => setOpen(false)}
               className="btn btn-outline-primary py-2 px-3"
-              to="about"
+              to="call-us"
             >
               Hubungi Kami
               <div className="d-inline-flex btn-sm-square bg-white text-primary rounded-circle ms-2">

@@ -1,4 +1,4 @@
-import about1 from "../../assets/img/about-tika-1.jpg";
+import about7 from "../../assets/img/about-tika-7.jpg";
 import icon1 from "../../assets/img/icon-revolusi.png";
 import icon2 from "../../assets/img/icon-pendampingan.png";
 import icon3 from "../../assets/img/icon-perlindungan.png";
@@ -26,11 +26,11 @@ const VisionAndMission = () => {
                   Kemajuan Masyarakat Indonesia
                 </h1>
                 <p className="mb-5">
-                  Menjadi gerbang pemersatu masyarakat untuk maju bersama,
-                  menciptakan kualitas hidup masyarakat yang berkualitas,
-                  unggul, mandiri, gotong-royong, kreatif, inovatif dan
-                  produktif, dengan menjadikan teknologi untuk kemajuan bagi
-                  masyarakat Indonesia melalui program-programnya.
+                  Dengan program-program kami, visi kami menjadi gerbang
+                  pemersatu masyarakat untuk maju bersama. Menciptakan kualitas
+                  hidup masyarakat yang berkualitas, unggul, mandiri,
+                  gotong-royong, kreatif, inovatif dan produktif, serta
+                  menjadikan teknologi untuk kemajuan masyarakat
                 </p>
               </div>
             </div>
@@ -41,7 +41,7 @@ const VisionAndMission = () => {
               >
                 <img
                   className="position-absolute w-100 h-100"
-                  src={about1}
+                  src={about7}
                   alt=""
                   style={{ objectFit: "cover" }}
                 />

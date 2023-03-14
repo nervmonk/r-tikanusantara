@@ -1,6 +1,8 @@
+import classes from "./CallMe.module.css";
+
 const CallMe = () => {
   return (
-    <div className="container-fluid donate my-5 py-5">
+    <div className={`container-fluid ${classes.appointment} my-5 py-5`}>
       <div className="container py-5">
         <div className="row g-5">
           <div className="col-lg-5 col-md-6 wow fadeIn" data-wow-delay="0.3s">
@@ -72,9 +74,29 @@ const CallMe = () => {
                   </div>
                 </div>
                 <div className="col-12">
-                  <button className="btn btn-primary w-100 py-3">
+                  <button disabled className="btn btn-primary w-100 py-3 mb-5">
                     Kirim Pesan
                   </button>
+                </div>
+                <div className="col-6">
+                  <a
+                    className="btn btn-success w-100 py-3"
+                    href="https://wa.me/6287840140470"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <i className="fab fa-whatsapp me-1"></i>Ketua
+                  </a>
+                </div>
+                <div className="col-6">
+                  <a
+                    className="btn btn-success w-100 py-3"
+                    href="https://wa.me/6281314440225"
+                    target="_blank"
+                    rel="noreferrer"
+                  >
+                    <i className="fab fa-whatsapp me-1"></i>Bantuan Hukum
+                  </a>
                 </div>
               </div>
             </form>

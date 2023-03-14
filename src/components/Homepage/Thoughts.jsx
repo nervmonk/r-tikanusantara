@@ -31,7 +31,7 @@ const Thoughts = () => {
                   Kumpulan Berita Seputar R-Tika Nusantara
                 </h5>
                 <p className="text-muted">
-                  Baca berita-berita tentang r-tika nusantara dari liputan media
+                  Berita-berita tentang R-tika nusantara dari liputan media
                 </p>
                 <div className="d-flex justify-content-end">
                   <p className="text-muted">Learn More</p>
@@ -51,8 +51,7 @@ const Thoughts = () => {
                 </div>
                 <h5 className="mb-3">Catatan dan gagasan R-Tika Nusantara</h5>
                 <p className="text-muted">
-                  Tempor erat elitr rebum at clita dolor diam ipsum sit diam
-                  amet diam et eos
+                  Jurnal, artikel, dan catatan dari tim R-Tika Nusantara
                 </p>
                 <div className="d-flex justify-content-end">
                   <p className="text-muted">Learn More</p>
@@ -74,8 +73,7 @@ const Thoughts = () => {
                   Aktivitas dan ragam kegiatan R-tika Nusantara
                 </h5>
                 <p className="text-muted">
-                  Tempor erat elitr rebum at clita dolor diam ipsum sit diam
-                  amet diam et eos
+                  Dokumentasi aktivitas-aktivitas sosial R-Tika Nusantara
                 </p>
                 <div className="d-flex justify-content-end">
                   <p className="text-muted">Learn More</p>

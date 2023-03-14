@@ -8,7 +8,7 @@ import img2_2 from "../img/tika-news2-2.jpg";
 import img3_1 from "../img/tika-news3-1.jpg";
 import img3_2 from "../img/tika-news3-2.jpg";
 
-import img4_1 from "../img/tika-news4-1.jpg";
+import img5_1 from "../img/tika-news5-1.jpg";
 
 export const NewsContent = [
   {
@@ -51,13 +51,14 @@ export const NewsContent = [
   },
   {
     id: 4,
-    title: "Homeschooling Primagama BSD Adakan Parenting Meeting",
-    date: "19 Oktober 2018",
-    writer: "tangerangonline.id",
+    title:
+      "Ketua Umum Relawan Teman Ibu Kawan Anak Nusantara (R-TIKA) Bahwa hak-hak setiap anak harus dijunjung tinggi",
+    date: "6 Maret 2023",
+    writer: "R-Tika",
     location: "Tangerang Selatan",
-    link: "https://tangerangonline.id/2018/10/19/homeschooling-primagama-bsd-adakan-parenting-meeting/",
-    content: `Menjalin keakraban antar orang tua murid, Homeschooling Primagama BSD Kota Tangerang Selatan (Tangsel) mengadakan Parenting Meeting.\nKegiatan yang digelar di Kafe Sector 12 Kencana Loka BSD itu, menghadirkan pakar psikologi anak, untuk berbagi ilmu pengetahuan seputar bakat dan minat anak kepada para orang tua.\nTika Dian Pangastuti selaku Kepala Sekolah Homeschooling Primagama BSD mengatakan, kegiatan ini selain sebagai ajang silaturahmi antar orang tua dan guru, juga bertujuan untuk memberi masukan kepada para orang tua pentingnya mengetahui bakat dan minat anak agar bisa memberi pendidikan yang tepat bagi anak-anak.\n“Karena pola pendidikan homeschooling membutuhkan lebih banyak perhatian orang tua agar anak bisa cepat memahami pelajaran dan mampu beradaptasi dengan baik di dalam komunitasnya,” jelas Tika Kamis (18/10/2018).\nTari, salah satu orang tua dari Ayya siswi kelas 5 Homeschooling Primagama BSD, mengapresiasi kegiatan tersebut. Sebab pertemuan ini sangat bermanfaat baginya, khususnya dengan adanya penyampaian materi tentang minat dan bakat anak, serta panduan pendidikan yang pas bagi anak-anak.\n“Sebagai orang yang anaknya memilih program pendidikan homeschooling tentunya harus lebih banyak penyiapkan waktu dan wawasan untuk melengkapi pendidikannya,” ujar Tari.\nMeski memilih homeschooling, anak-anaknya masih bisa bersosialisasi dan berteman dengan teman sebayanya.\n“Anak saya awalnya sekolah full day seperti anak-anak pada umumnya, karena sering merasa lelah dan kewalahan dengan jadwal sekolah umum yang padat, akhirnya saya memilih homeschooling untuk pendidikan anak-anak. Hasilnya, Alhamdulillah anak saya merasa lebih nyaman. Namun demikian, anak saya masih bisa berteman, karena saya memilih homeschooling komunitas yang belajarnya di sekolah bukan di rumah,” tutup Tari. (Ban)`,
-    headImg: img4_1,
+    link: "",
+    content: `Menanggapi kasus pencabulan yang melibatkan oknum guru Pesantren yang diduga mencabuli 24 santri di Kabupaten Padang Lawas Sumatera Utara. Menurutnya tindakan tersebut sangat tidak terpuji, mengingat modus pelaku terhadap korban dengan dalih pijat yang dilakukan di institusi pendidikan.  Menurut Tika mestinya sebagai pendidik harus mampu melindungi, mengayomi dan menjadi teladan untuk anak-anak yang masih dibawah umur.\nKasus ini sudah dilakukan oknum tersangka sejak 2022 silam, setelah bermula dari laporan salah satu keluarga korban ke Kasat Reskrim Polres Palas pada Minggu (5/03/2023). Dari pelaporan tersebut telah dilakukan penyidikan aparat tentang adanya tindak pidana kekerasan seksual di lingkungan pesantren. Kasus ini cukup menyita perhatian publik terutama orang tua santri yang menitipkan anaknya di lingkungan pesantren.\nPasalnya tersangka merupakan oknum guru yang semestinya menjaga marwah pendidikan pesantren dan diharapkan mampu melindungi anak-anak, terlebih yang masih dibawah umur.\nMenurut Tika Dian Pangastuti, S.S  yang juga tergabung dalam Divisi Pencegahan PUSPAGA Kota Tangsel berpendapat :\nBahwa hak-hak setiap anak harus dijunjung tinggi, sesuai dengan Undang-undang perlindungan anak No 35 tahun 2014 pasal 1 menyatakan bahwa Perlindungan Anak adalah segala kegiatan untuk menjamin dan melindungi Anak dan hak-haknya agar dapat hidup, tumbuh, berkembang, dan berpartisipasi secara optimal sesuai dengan harkat dan martabat kemanusiaan, serta mendapat perlindungan dari kekerasan dan diskriminasi.\nSerta dalam pasal 20 Undang-Undang perlindungan anak  juga turut disebutkan bahwa ”Negara, Pemerintah, Pemerintah Daerah, Dunia Usaha, Media massa, masyarakat, keluarga, dan orang tua atau wali berkewajiban dan bertanggung jawab terhadap penyelenggaraan Perlindungan Anak” dari penyidik PPA Polres padanglawas juga dalam menegak hukum harus hati-hati dalam merilis kasus yang berkaitan dengan Anak, karena hal ini, sangat berdampak psikologis terhadap Korban.\nSelain itu Tika juga mendesak Dinas PPA dan KEMENAG setempat juga turut melakukan pemulihan psikologis terhadap korban.\nTentunya ini pelajaran bagi kita semua untuk mengawal kasus ini, jangan sampai tersangka dengan perbuatannya dapat lolos dari jeratan hukum meskipun yang bersangkutan merupakan orang yang berpengaruh di lingkungan pendidikan. Tugas utama kita harus menjaga anak-anak dari kekerasan fisik, verbal, psikologis serta kekerasan seksual.`,
+    headImg: img5_1,
     subImg1: null,
     subImg2: null,
   },
