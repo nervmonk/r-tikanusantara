@@ -8,6 +8,8 @@ import img2_2 from "../img/tika-news2-2.jpg";
 import img3_1 from "../img/tika-news3-1.jpg";
 import img3_2 from "../img/tika-news3-2.jpg";
 
+import img4_1 from "../img/tika-news4-1.jpeg";
+
 import img5_1 from "../img/tika-news5-1.jpg";
 
 export const NewsContent = [
@@ -64,14 +66,14 @@ export const NewsContent = [
   },
   {
     id: 5,
-    title: "Rakernas Dan Musyawarah Agung DPP KNPI Bersama Pemangku Adat.",
-    date: "5 Februari 2023",
-    writer: "FFS",
-    location: "Bandung",
-    link: "https://www.instagram.com/",
-    content: `Rapat Kerja Nasional dan Musyawarah Agung yang diadakan dari tanggal 3 - 5 Februari 2023 di Gedung Merdeka yang dihadiri dari tingkat DPD I dan II beserta utusan OKP seluruh Indonesia bersama Raja, Sultan, Pemangku Adat, Veteran dan Pemuka Agama menghasilkan kesepakatan bersama dalam memajukan Indonesia kedepan.\nBeberapa hasil yang sudah diselenggarakan melahirkan 9 poin kebangsaan yang bernama ”NAWA ASA” kemudian diserahkan kepada Ketua Umum DPP KNPI, M. Ryano Panjaitan untuk dilanjutkan sebagai Amanat Agung.\nDalam pertemuan momen sejarah yang diselenggarakan di Gedung Merdeka, Bandung. Para Raja, Sultan, Pemangku Adat dan Veteran sepakat  bersama membentuk konsorsium yang diberi nama Badan Pemangku Adat Masyarakat (BAPAMA).\nDPP KNPI yang dipimpin M. Ryano Panjaitan beserta jajaran berharap dapat bersinergi dengan Raja, Sultan, Pemangku Adat, Veteran dan Pemuka Agama untuk bersama-sama membangun Bangsa dan Negara sebagai bentuk kecintaan kepada Rakyat Indonesia.\nSampai berita ini diterbitkan, Sabtu (4/2/2023), DPP KNPI dalam Rangka Rapat Kerja Nasional dan Musyawarah Agung di Gedung Merdeka, Bandung Tahun 2023 yang merupakan tempat sejarah akan terus memberikan regulasi yang bersinergi kepada Pemerintah. (FFS)`,
-    headImg: img3_1,
-    subImg1: img3_2,
+    title: "Rita Mariana R-Tika Meranti: Pentingnya Edukasi dan Peyuluhan Terhadap Anak Terkait Kasus Kekerasan dilingkungan Pesantren",
+    date: "22 Maret 2023",
+    writer: "JENDELA INFORMASI",
+    location: "Meranti",
+    link: "https://www.tingkap.info/2023/03/rita-mariana-r-tika-meranti-pentingnya.html",
+    content: `Meranti, Tingkap.info - Salah satu Pemerhati Perempuan dan Anak Kepulauan Meranti Rita Mariana S.Psi Memberikan Pandangan Terkait  Kasus Pelecehan Yang Terjadi dilingkungan Pesantren, Rabu 22/03/2023.\n"Saat ini kami dari Lembaga R-tika ( Relawan teman ibu kawan anak Nusantara) , terus mengawasi kondisi korban yang di bawah umur, dan untuk TSK kita serah kan pada proses hukum yang sedang berjalan," katanya.\n"Harapan kami tentunya harapan kita semua, tidak ada korban selanjutnya, dan adanya kejadian ini, dalam waktu dekat kami berencana akan membuat satu kegiatan yang pastinya bisa bekerja sama dengan Uptd PPA Dinsos dan PPA polres untuk kembali dengan kegiatan seperti biasa mengunjungi setiap pesantren madrasah , atau sekolahan, untuk memberikan edukasi dan pencegahan agar tidak terjadi kekerasan  dan pelecehan seksual, pada santri atau pun siswa maupun siswi,  dan mengedukasi kan batasan batasan, antara orang yg beralinan jenis . dan berani melaporkan jika mendapatkan perlakuan yg tidak layak atau salah".\nLebih Lanjut Beliau Berharap Semoga dengan edukasi pencegahan yang kita buat nanti setidaknya tidak ada lagi korban perlakuan salah lagi terhadap anak di bawah umur.`,
+    headImg: img4_1,
+    subImg1: null,
     subImg2: null,
   },
   {
